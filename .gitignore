@@ -1,5 +1,5 @@
 Trumbs.db
 .DS_Store
-/tmp/
-*.old
-*.backup
+tmp/
+*_old
+*_backup
